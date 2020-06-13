@@ -1,5 +1,5 @@
 # Website-Restaurant-Management
-Minor project files.
+Project files and Snapshots of the running project.
 
 Front page of website
 
