@@ -1,0 +1,152 @@
+.lg
+{
+text-decoration:none;
+}
+.m
+{
+text-decoration:none;
+}
+.a
+{
+text-decoration:none;
+color:green;
+}
+.a:hover
+{
+font-size:22px;
+}
+.aa
+{
+text-decoration:none;
+color:red;
+}
+.aa:hover
+{
+font-size:22px;
+}
+body{
+background-image:url("https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png");
+background-size: 1350px 650px;
+}
+#box1
+{
+margin-top:30px;
+padding-top:1px;
+border:0px solid black;
+height:70px;
+width:1345px;
+background-color:rgba(0,0,0,0.5);
+border-radius:10px;
+box-shadow:3px 3px 3px;
+}
+#box2
+{
+border:0px solid black;
+height:60px;
+width:1345px;
+margin-top:465px;
+background-color:rgba(0,0,0,0.6);
+border-radius:10px;
+box-shadow:3px 3px 3px;
+}
+#box3
+{
+border:0px solid black;
+height:440px;
+width:500px;
+margin-top:0px;
+background-color:rgba(0,0,0,0.5);
+border-radius:15px;
+box-shadow:2px 3px 3px;
+}
+#box4
+{
+border:0px solid black;
+height:440px;
+width:844px;
+margin:-460px 501px ;
+background-color:rgba(0,0,0,0.5);
+border-radius:15px;
+box-shadow:3px 3px 3px;
+}
+.h3
+{
+margin:10px 128px;
+font-size: 30px;
+font-family:Comic Sans MS;
+color:#DFE2D9;
+}
+.h2
+{
+margin:-50px 1050px;
+font-size:30px;
+font-family:Comic Sans MS;
+color:#DFE2D9;
+}
+.h1
+{
+margin:5px 1250px;
+font-family:Comic Sans MS;
+font-size:30px;
+} 
+.link
+{
+margin-top:5px;
+padding-top:6px;
+padding-left:95px;
+font-family:Comic Sans MS;
+font-size:40px;
+}
+.link:hover
+{
+	
+	background-color:rgba(0,0,0,0.3);
+}
+.rights
+{
+	padding-top:10px;
+margin-left:450px;
+color:#DFE2D9;
+}
+.table2
+{
+text-align:center;
+border:0px solid black;
+height:8%;
+width:100%;
+margin:0px 0px;
+color:#DFE2D9;
+font-size:20px;
+font-family:Comic Sans MS;
+background-color:rgba(0,0,0,0.3);
+border-radius:10px;
+box-shadow:3px,3px,3px;
+}
+
+#tableb
+{
+border-radius:10px;
+margin:8px 40px;
+border:0px solid black;
+height:355px;
+width:755px;
+overflow:auto;
+overflow-x:hidden;
+}
+.td
+{
+	
+}
+.td:hover
+{
+	background-color:rgba(0,0,0,0.2);
+}
+.add
+{
+	padding-top:20px;
+margin:20px 190px 10px  ;
+font-size:30px;
+font-family:Comic Sans MS;
+color:#DFE2D9;
+}
+

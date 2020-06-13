@@ -1,0 +1,89 @@
+body{
+background-image:url("https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png");
+background-size:1370px 650px;
+font-family:georgia;
+}
+#box 
+{
+background-color:rgba(0,0,0,0.2);
+border:0px solid #D1820C;
+height:100%;
+width:100%;
+padding-left:20px; 
+padding-top:100px;
+box-shadow:3px 5px 5px rgba(0,0,0,0.7);
+}
+
+.button{
+height:50px;
+width:255px;
+background-color:rgba(0,0,0,0.2);
+color:#DFE2D9;
+font-family:Comic Sans MS;
+box-shadow:0 6px 6px rgba(0,0,0,0.8);
+transition:0.2s ease;
+cursor:pointer;
+margin-top:60px;
+border-radius:20px;
+border:1px solid #3A3D45;
+font-weight:800;
+}
+.button:hover
+{
+background-color:rgba(0,0,0,0.5);	
+}
+
+
+.inputbox
+{
+padding-left:10px;
+font-family:Comic Sans MS;
+border:0px solid #D1820C;
+height:30px;
+width:240px;
+border-radius:3px;
+background-color:rgba(0,0,0,0.2);
+color:white;
+}
+.inputbox:hover
+{
+background-color:rgba(0,0,0,0.4);
+color:white;
+}
+.h3
+{
+margin:10px 5px;
+font-family:Comic Sans MS;
+padding-left:7px;
+padding-bottom:40px;
+font-size:30px;
+
+}
+.h3A
+{
+margin:10px 3px;
+font-family:Comic Sans MS;
+padding-left:0px;
+padding-bottom:40px;
+font-size:30px;
+}
+#container
+{
+height:430px;
+width:21%;
+border:0px solid black;
+margin:0px auto;
+margin-top:50px;
+background-color:rgba(0,0,0,0);
+}
+.fa
+{
+	color:rgba(255,255,255,0.4);
+}
+
+::-webkit-input-placeholder
+{
+	color:#DFE2D9;
+}
+	
+

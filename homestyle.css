@@ -1,0 +1,182 @@
+.lg
+{
+text-decoration:none;
+}
+.m
+{
+text-decoration:none;
+}
+body{
+background-image:url("https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png");
+background-size: 1350px 650px;
+}
+#box1
+{
+margin-top:30px;
+padding-top:1px;
+border:0px solid black;
+height:70px;
+width:1345px;
+background-color:rgba(0,0,0,0.5);
+border-radius:10px;
+box-shadow:3px 3px 3px;
+}
+#box2
+{
+border:0px solid black;
+height:60px;
+width:1345px;
+margin-top:485px;
+background-color:rgba(0,0,0,0.6);
+border-radius:10px;
+box-shadow:3px 3px 3px;
+}
+#box2s
+{
+border:0px solid black;
+height:60px;
+width:1345px;
+margin-top:445px;
+background-color:rgba(0,0,0,0.6);
+border-radius:10px;
+box-shadow:3px 3px 3px;
+}
+#box3
+{
+border:0px solid black;
+height:440px;
+width:500px;
+margin-top:0px;
+background-color:rgba(0,0,0,0.5);
+border-radius:15px;
+box-shadow:2px 3px 3px;
+}
+#box4
+{
+border:0px solid black;
+height:440px;
+width:844px;
+margin:-480px 501px ;
+background-color:rgba(0,0,0,0.5);
+border-radius:15px;
+box-shadow:3px 3px 3px;
+}
+#box4s
+{
+border:0px solid black;
+height:420px;
+width:844px;
+margin:-440px 501px ;
+background-color:rgba(0,0,0,0.5);
+border-radius:15px;
+box-shadow:3px 3px 3px;
+padding-top:20px;
+}
+#box4ss
+{
+border:0px solid black;
+height:390px;
+width:400px;
+margin-left:230px;
+padding-top:3px;
+padding-left:10px;
+border-radius:10px;
+box-shadow:6px 6px 6px 2px rgba(0,0,0,0.5);
+background-color:rgba(192,192,192,0.2);
+}
+.h3
+{
+margin:10px 128px;
+font-size: 30px;
+font-family:Comic Sans MS;
+color:#DFE2D9;
+}
+.h2
+{
+margin:-50px 1000px;
+font-size:30px;
+font-family:Comic Sans MS;
+color:#DFE2D9;
+}
+.h1
+{
+margin:5px 1200px;
+font-family:Comic Sans MS;
+font-size:30px;
+} 
+
+.adpanel
+{
+	padding-top:180px;
+	margin-left:120px;
+	font-size:40px;
+	font-family:Comic Sans MS;
+	color:#DFE2D9;
+}
+.link
+{
+margin-top:5px;
+padding-top:6px;
+padding-left:95px;
+font-family:Comic Sans MS;
+font-size:40px;
+}
+.link:hover
+{
+	
+	background-color:rgba(0,0,0,0.3);
+}
+.rights
+{
+	padding-top:10px;
+margin-left:450px;
+color:#DFE2D9;
+}
+.settings_input
+{
+color:#DFE2D9;
+font-family:Comic Sans MS;
+border:0px solid #551A8B;
+height:40px;
+width:350px;
+border-radius:5px;
+margin-top:0px;
+margin-left:15px;
+padding-left:10px;
+background-color:rgba(0,0,0,0.4);
+}
+.settings_input:hover
+{
+ background-color:rgba(0,0,0,0.2);
+}
+.botton
+{
+color:#DFE2D9;
+border:0px solid black;
+height:30px;
+width:80px;
+font-family:Comic Sans MS;
+border-radius:5px;
+box-shadow:3px 3px 3px rgba(0,0,0,0.5);
+transition:0.2s ease;
+cursor:pointer;
+background-color:rgba(0,0,0,0.5);
+color:#DFE2D9;
+margin-left:17px;
+}
+.botton:hover
+{
+background-color:rgba(0,0,0,0.2);
+}
+.adminsettings
+{
+font-family:Comic Sans MS;
+color:#DFE2D9;
+font-size:30px;
+padding-left:25px;
+margin-bottom:8px;
+}
+::-webkit-input-placeholder
+{
+	color:#DFE2D9;
+}
