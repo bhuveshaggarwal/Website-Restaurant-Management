@@ -20,6 +20,14 @@ Back end page.
 ![Back-end page of website](https://github.com/bhuveshaggarwal/Website-Restaurant-Management/blob/master/Screenshot%20(147).png)
 
 This is reference for Back end of website.
-.
-.
 
+
+
+
+Database of project/ Sql table
+![Sql table](https://github.com/bhuveshaggarwal/Website-Restaurant-Management/blob/master/Screenshot%20(136).png)
+![Sql table](https://github.com/bhuveshaggarwal/Website-Restaurant-Management/blob/master/Screenshot%20(138).png)
+
+This is reference for Database of website. Here the data is added from Back-end and changed Dynamically at the Front-end.
+.
+.
